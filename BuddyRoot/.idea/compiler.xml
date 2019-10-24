@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="buddy-test-one" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="buddy-root" target="1.5" />
+      <module name="buddy-test-one" target="1.5" />
+      <module name="buddy-test-three" target="1.5" />
+      <module name="buddy-test-two" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

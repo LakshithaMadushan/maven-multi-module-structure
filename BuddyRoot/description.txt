@@ -1,0 +1,3 @@
+https://www.baeldung.com/maven-multi-module
+
+https://www.mkyong.com/maven/maven-how-to-create-a-multi-module-project/
